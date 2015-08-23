@@ -1,7 +1,11 @@
 # datasciencecoursera-3-project
-###The data set information can be found here:### http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
+###The data set information can be found here:###
 
-###And it can be downloaded here:### https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
+http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
+
+###And it can be downloaded here:### 
+
+https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 
 ###More information on the data, based on the readme.txt files that comes with it:###
 
