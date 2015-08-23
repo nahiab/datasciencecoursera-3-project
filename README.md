@@ -25,5 +25,6 @@ https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Datas
 - Merge the equivalent data sets
 - Extract the mean and the sd
 - Ease the data understanding by applying descriptive variables and naming the activities (steps 3 and 4)
-- Create a tidy data file , including averages for activities and subjects
+- Create a tidy data set, including averages for activities and subjects
+- Create a tidy data file named step5.txt in the working directory
 
